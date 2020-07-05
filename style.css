@@ -1,0 +1,89 @@
+h1{
+    color: deeppink;
+    margin-left:  20px;
+    padding-left:  20px;
+    padding-right:  20px;
+}
+
+.box{
+    outline: 3px solid black;
+}
+
+.header *{
+    border: solid
+}
+
+.header{
+    background-color: #f7d463 ;
+    display: flex;
+    border: 3px solid aqua;
+    box-shadow: inset 0 0 10px rgba(233, 79, 8, 0.5);
+    text-decoration-line:underline;
+    font: italic small-caps bold 17px/1.5 Helvetica, Arial, sans-serif;
+    justify-content: flex-start;
+}
+
+.header2{
+    background-color: #418285 ;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid greenyellow;
+    box-shadow: inset 0 0 10px rgba(233, 79, 8, 0.5);
+    font: italic small-caps bold 17px/1.5 Helvetica, Arial, sans-serif;
+}
+
+.header3{
+    background-color: skyblue ;
+    display: flex;
+    justify-content: center;
+    border: 3px solid greenyellow;
+    box-shadow: inset 0 0 10px rgba(233, 79, 8, 0.5);
+   
+}
+
+.header4{
+    background-color: peachpuff;
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid turquoise;
+   
+}
+
+.header4{
+    position: relative;
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+display: flex;
+justify-content: flex-end;
+}
+
+.footer2{
+    background-color: salmon ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    border: 3px solid springgreen;
+   
+}
+
+p{
+text-align: center;
+}
+
+h2{
+   color: tomato;
+}
+
+.pc{
+    text-decoration-line:underline;
+    font: italic small-caps bold 17px/1.5 Helvetica, Arial, sans-serif;
+}
+
+
